@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStop() {
         mt("OnStop");
+       // super.onStop();
         super.onStop();
     }
 
