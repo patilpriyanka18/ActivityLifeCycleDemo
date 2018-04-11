@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onRestart() {
         super.onRestart();
-        mt("OnRestar");
+        mt("OnRestart");
     }
     private void mt(String msg){
         Toast.makeText(this,"",Toast.LENGTH_SHORT).show();
