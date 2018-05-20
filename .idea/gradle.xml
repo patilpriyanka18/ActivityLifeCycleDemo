@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/activitylifecclejavademo" />
+            <option value="$PROJECT_DIR$/activitystartdemo" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

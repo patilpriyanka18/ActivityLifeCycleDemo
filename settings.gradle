@@ -1,1 +1,1 @@
-include ':app', ':activitylifecclejavademo'
+include ':app', ':activitylifecclejavademo', ':activitystartdemo'
